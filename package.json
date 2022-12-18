@@ -1,0 +1,24 @@
+{
+  "name": "sql-employee-tracker-project",
+  "version": "1.0.0",
+  "description": "Inquirer",
+  "main": "index.js",
+  "dependencies": {
+    "inquirer": "^8.1.4",
+    "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lisette33/SQL-Employee-Tracker-Project.git"
+  },
+  "author": "LM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Lisette33/SQL-Employee-Tracker-Project/issues"
+  },
+  "homepage": "https://github.com/Lisette33/SQL-Employee-Tracker-Project#readme"
+}
