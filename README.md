@@ -1,5 +1,5 @@
 ## Title
-SQL: Employee Tracker Project
+SQL: Employee Tracker Project for Users
 
 ## Author
 Lisette Morales 
@@ -10,10 +10,10 @@ Lisette Morales
 Video URL: 
 
 ## Description
-The application is for users to write and save notes. In addition, the application uses Express.js to save and get data from the notes by the JSON file. Also, the application uses routes for responses if users do requests.
+The command-line application is for users to engage and view information within database. The application also uses Inquirer package, Node.js, and MySQL to create a command-line application of an employee database.
 
 ## Screenshot of Application
-![OOP-Team-Profile-Generator](https://user-images.githubusercontent.com/113862182/207746819-5a0217a9-8f18-47d1-8631-11f51339307f.png)
+![SQL-Employee-Tracker-Project](https://user-images.githubusercontent.com/113862182/208325803-eba96684-c417-43c2-9e32-a12fe92b972e.png)
 
 ## Project Guidelines stated as:
 
@@ -47,3 +47,5 @@ WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database 
 ```
 
+## License
+MIT License
