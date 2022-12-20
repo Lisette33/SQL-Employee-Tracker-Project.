@@ -7,7 +7,7 @@ Lisette Morales
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Walkthrough Video URL Link shows functionality of application: 
-Video URL: 
+Video URL: https://drive.google.com/file/d/1PVRNOV_ux8LN1lg1jzQ0meAHvOh7AJBf/view 
 
 ## Description
 The command-line application is for users to engage and view information within database. The application also uses Inquirer package, Node.js, and MySQL to create a command-line application of an employee database.
